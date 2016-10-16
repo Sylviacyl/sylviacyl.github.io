@@ -31,7 +31,7 @@ body.interest {
 body.home {ackground-color: white;
   background-size:cover;
   /*background-image: url("https://hd.unsplash.com/photo-1418225162054-0f773a996f9e");*/
-  background-image: url("file:///C:/Users/Sylvia/apps/static-sites/Portfolio/images/main-background.jpg");
+  background-image: url("/images/main-background.jpg");
   background-attachment: scroll|fixed;
   background-position:top bottom;
   /*background-repeat: repeat-y;*/
