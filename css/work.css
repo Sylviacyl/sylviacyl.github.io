@@ -1,0 +1,113 @@
+body {
+  max-width: 1024px;
+  background-color: white;
+  background-size:cover;
+  background-image: url("/images/yellow-background.jpg");
+
+  background-repeat: repeat;
+  overflow-y: scroll;
+  color: black;
+}
+
+h6 {
+  font-size: 2em;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: black;
+
+}
+
+h3 a {
+  color: black;
+}
+
+h3 a:hover {
+  text-decoration: none;
+}
+
+p {
+  font-size: 1.3em;
+}
+
+li {
+  /*list-style-type: none;*/
+  text-align: left;
+}
+
+.row {
+  margin-bottom: 1em;
+}
+
+.current-job {
+  border-bottom: solid #eaeaea 1px;
+  padding-bottom: 20px;
+}
+
+.resume-block-title {
+  font-family: 'Lato', sans-serif;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
+  color: black;
+}
+
+.resume-time {
+  /*color: #505050;*/
+  color: black;
+  position: relative;
+  left: 10px;
+}
+
+.resume-block-info {
+  margin-top: 40px;
+}
+
+.resume-experience-description {
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 0 60px;
+  min-height: 450px;
+  text-align: left;
+  opacity:0.9
+ }
+
+.resume-logo{
+height:55px;
+width:auto;
+}
+
+.skill-title {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.4em;
+  font-weight: 200;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  color: black;
+}
+.skills-block {
+  font-family: 'Source Sans Pro', sans-serif;
+  width: 100%;
+  margin: auto;
+  color: black;
+
+}
+.education-block {
+  	font-family: 'Source Sans Pro', sans-serif;
+  width: 100%;
+  margin: auto;
+  color: black;
+  opacity: 0.9;
+}
+
+.skill-container {
+  	font-family: 'Source Sans Pro', sans-serif;
+}
+
+img {
+  width: 100%;
+}
+
+.education-block{
+  	font-family: 'Source Sans Pro', sans-serif;
+  background-color: white;
+}

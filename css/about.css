@@ -1,0 +1,186 @@
+body {
+	margin: auto;
+	height: 100%;
+	min-height: 100%;
+}
+
+/******************** ROWS & COLUMNS ********************/
+.col-md-12 {
+	padding: 0px;
+}
+
+.col-md-6 {
+	padding: 0px;
+}
+
+.row {
+	max-width: 100em;
+	margin: auto;
+}
+
+.row-about {
+	margin-top: 100px;
+	padding: 60px;
+}
+
+/******************** NAME TITLE ********************/
+.nametitle {
+	text-align: center;
+	padding: 100px 0px 20px;
+	background-color: #02779E;
+	color: #ffffff;
+}
+
+.nametitle__highlight {
+	color: #ffffff;
+	opacity: .75;
+}
+
+/******************** MAIN SELECTORS ********************/
+img {
+	width: 100%;
+	max-width: 1280px;
+	height: auto;
+}
+
+.container-fluid {
+	text-align: center;
+}
+
+.centered {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.nav a, .navbar-brand {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 300;
+	font-size: 1.3em;
+	text-transform: uppercase;
+}
+
+/******************** FOOTER & SOCIAL ICONS ********************/
+.social-icons-block {
+	background-color: #02779E;
+	height: 100px;
+	padding: 30px;
+}
+
+.social-link {
+	color: #ffffff;
+	padding: 0px 10px;
+}
+
+.social-bar {
+	padding: 0px;
+}
+
+.navbar {
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+
+/******************** LINK STATES ********************/
+a :visited {
+	text-decoration: none;
+}
+
+a :hover {
+	text-decoration: none;
+}
+
+/******************** HEADINGS ********************/
+h1 {
+	font-size: 15em;
+	font-family: 'Wire One', sans-serif;
+	font-weight: 400;
+}
+
+h2 {
+	font-size: 5em;
+	font-family: 'Wire One', sans-serif;
+	font-weight: 400;
+	margin-top: 40px;
+	color: #ffffff;
+	opacity: .75;
+}
+
+h3 {
+	color: #575757;
+	font-family: 'Lato', sans-serif;
+	font-size: 1.5em;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+h5 {
+	font-size: 1.3em;
+	color: #212121;
+}
+
+p {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 1.3em;
+	font-weight: 300;
+	line-height: 1.5em;
+}
+
+/******************** DESCRIPTIONS ********************/
+.who-description, .about-description, .how-description {
+	margin-top: 40px;
+}
+
+.who-block {
+	padding: 60px 0px;
+	width: 60%;
+	margin: auto;
+}
+
+.how-block {
+	padding: 30px;
+	border-top: solid #eaeaea 1px;
+	border-bottom: solid #eaeaea 1px;
+}
+
+.process-block {
+	margin-top: 40px;
+	min-height: 380px;
+	border: solid white 5px;
+	padding: 20px 15px;
+	background-color: #02779E;
+	color: #ffffff;
+}
+
+h4 {
+	font-size: 1.5em;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+}
+
+.process-block-content {
+	font-size: 1.4em;
+}
+
+.work-block {
+	margin-top: 100px;
+}
+
+.work-link {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 300;
+	font-size: 1.4em;
+}
+
+.viewipad-img {
+	margin-top: 50px;
+	width: 50%;
+}
+
+/******************** ABOUT PAGE ********************/
+.about-img {
+	width: 80%;
+}
+
+.about-description {
+	text-align: left;
+}

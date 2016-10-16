@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+
+Sitemap
+
+https://Sylviacyl.github.io/sitemap.xml
