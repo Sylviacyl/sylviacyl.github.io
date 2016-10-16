@@ -1,19 +1,19 @@
 ## Aim
 My intention was to create a static website that is professional, user-friendly that also highlights some of my interests and experience.
-4 pages – Intro, About, Work and Interest
+4 pages â€“ Intro, About, Work and Interest
 Leaving out Contact page as there are links
 ## Home 
-The Home page – very full page background
-Initially I had included a slide out menu - this is created in CSS and HTML only activated with via hamburger icon but was replaced with large ‘ghost’ buttons to make it more obvious for the user to navigate.
-This page include links to my Linkedin Profile and Github account –fontawesome.io icons were used
+The Home page â€“ very full page background
+Initially I had included a slide out menu - this is created in CSS and HTML only activated with via hamburger icon but was replaced with large â€˜ghostâ€™ buttons to make it more obvious for the user to navigate.
+This page include links to my Linkedin Profile and Github account â€“fontawesome.io icons were used
 
 ## About Me
 I tried to make this page different from Intro page in using Bootstrap to add a few more features on this page for UX and east read.
 Pics are resized minimal to avoid time loading
 Top Nav menu created uses bootstrap and JS, also collapses to Hamburger menu for small width screens.  Menu stays on the top of the screen.
 A few more links to my resume for easy navigation while using mobile
-Image – on left – text on the right
-Text – describing a few things about me
+Image â€“ on left â€“ text on the right
+Text â€“ describing a few things about me
 
 ## Work a simple aka resume
 Keeping with the format of the About Me page
